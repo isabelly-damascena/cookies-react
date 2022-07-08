@@ -1,0 +1,7 @@
+.cookie-footer {
+    background-color:rgb(183, 181, 181);
+    text-align: center; 
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+}
