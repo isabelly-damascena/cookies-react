@@ -5,7 +5,7 @@ function CookieFooter() {
   return (
     <footer className='cookie-footer'>
      <p>Some text warning the user to accept the cookies.</p>
-     <button onClick={(e) => console.log("Hi")}>Accept Cookies</button>
+     <button onClick={(e) => console.log("Hi")} className='accept-button'>Accept Cookies</button>
     </footer>
   );
 }
